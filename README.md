@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AisarCLO
+- 👋 Hi, I’m Nischal Chaulagai
 - 👀 I’m interested in Web Technology and Mobile Application Development
 - 🌱 I’m currently learning Full Stack Development
 - 💞️ I’m looking to collaborate on "Anything:"
